@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anastasia Ibaeva
 - 👀 I’m interested in C++, ML, NLP
 - 🌱 I’m currently learning NLP
-- 📫 How to reach me @anastasia_iii
+- 📫 How to reach me tg: @anastasia_iii
 
 <!---
 anastasiaibaeva/anastasiaibaeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
