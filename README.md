@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anastasia Ibaeva
+- 👋 Hi, I’m Anastasia Ibaeva, HSE AMI student 23
 - 👀 I’m interested in C++, ML, NLP
 - 🌱 I’m currently learning NLP
 - 📫 How to reach me tg: @anastasia_iii
