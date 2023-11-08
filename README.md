@@ -1,5 +1,6 @@
 ### Hi, I’m Anastasia Ibaeva
 HSE AMI student '23
+Ozon product analyst
 
 - My skills: C++, Python, SQL, Latex
 
